@@ -1,0 +1,9 @@
+Exception: STATUS_ACCESS_VIOLATION at eip=004012A3
+eax=00000000 ebx=0063CC1C ecx=0000000B edx=0000000C esi=2003A545 edi=2003A537
+ebp=0063CBF8 esp=0063CBC0 program=C:\Users\Ivar\Documents\NetBeansProjects\homework_1\dist\Debug\Cygwin-Windows\homework_1.exe, pid 10524, thread main
+cs=0023 ds=002B es=002B fs=0053 gs=002B ss=002B
+Stack trace:
+Frame     Function  Args
+0063CBF8  004012A3 (00000001, 0063CC1C, 200280F0, 610079C2)
+0063CD08  61007A27 (00000000, 0063CD64, 61006A20, 00000000)
+End of stack trace
